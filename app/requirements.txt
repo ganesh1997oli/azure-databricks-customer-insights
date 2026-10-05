@@ -1,0 +1,5 @@
+streamlit==1.50.0
+pandas==2.2.3
+altair==5.5.0
+databricks-sql-connector==4.1.2
+databricks-sdk==0.146.0
